@@ -33,14 +33,14 @@ msg = {
 * Segregate the received data based on the data types
 * Can use library for parsing the json string
 * First segregate this based on deviceID, and then based on data type. For example:  
-Device1  
-|----------temperature.txt → -40 to 110 degree Celcius (upto 2 decimal places)  
-|----------humidity.txt → 0% to 100% (upto 3 decimal places)  
-|----------air_pressure.txt → 3 to 300 psi (integer)  
-|----------ph.txt → 0 to 14 (upto 1 decimal place)  
-Device2  
-|----------distance.txt → 0 to 100m (upto 2 decimal places)  
-|----------switch_state.txt → “ON” or “OFF”  
+_Device1/_  
+|---------- temperature.txt → -40 to 110 degree Celcius (upto 2 decimal places)  
+|---------- humidity.txt → 0% to 100% (upto 3 decimal places)  
+|---------- air_pressure.txt → 3 to 300 psi (integer)  
+|---------- ph.txt → 0 to 14 (upto 1 decimal place)  
+_Device2/_  
+|---------- distance.txt → 0 to 100m (upto 2 decimal places)  
+|---------- switch_state.txt → “ON” or “OFF”  
 
 
 ### Stage 2
