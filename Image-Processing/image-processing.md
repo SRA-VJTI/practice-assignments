@@ -9,32 +9,32 @@ The packages which can be used are Numpy and PIL.
 ---
 ### 1. Image Rotation
 
-![rotate](https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/rotate.png)  
 Rotate an image by various angles. 
-Hence write a code that will be generic for 90, 180 degrees.
+Hence write a code that will be generic for 90, 180 degrees.  
+<img width="300" height="300" src="https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/rotate.png">  
 
 ### 2. Applying Kernels
 
-|![blur](https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/blur.jpeg)|![filter](https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/filter.png)|
-|:---:|:---:|
-
 Find out 5X5  filters which can do the following tasks and apply them on the given image
 1. Blurring (Apply any 3 filters)
-2. Sharpening
+2. Sharpening  
+
+|<img width="300" height="300" src="https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/blur.jpeg">|<img width="300" height="300" src="https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/filter.png">|
+|:---:|:---:|
 
 ### 3. Edge Detection
-
-![edge](https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/edge-detection.png)  
+  
 Find out 3X3 filters which can do the following tasks and apply them on the given image
 1. Vertical edge detection
 2. Horizontal edge detection
 3. Sobel edge detection (right, left, top, bottom)
-4. Canny edge detection
+4. Canny edge detection  
+<img width="300" height="300" src="https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/edge-detection.png">  
 
-### 4. Morphological Transformation
+### 4. Morphological Transformation  
 
-![morphology](https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/morphological.png)  
-Find out about morphological transforms (erosion , dilation) and apply them on given images
+Find out about morphological transforms (erosion , dilation) and apply them on given images    
+<img width="300" height="300" src="https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/morphological.png">  
 
 ### 5. Masking
 
@@ -43,6 +43,7 @@ For this section your task is to detect a blue ball
 
 ### 6. ROI
 
-![roi](https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/roi.jpg)  
 ROI (Region of interest) is obtained by Numpy indexing. Use Figure 1 to obtain Figure 2  
-**Hint:-** Use bitwise operations
+**Hint:-** Use bitwise operations  
+<img width="300" height="300" src="https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/roi.jpg">  
+
