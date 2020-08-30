@@ -9,7 +9,7 @@ The packages which can be used are Numpy and PIL.
 ---
 ### 1. Image Rotation
 
-![rotate](https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/rotate.png)
+![rotate](https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/rotate.png)  
 Rotate an image by various angles. 
 Hence write a code that will be generic for 90, 180 degrees.
 
@@ -24,7 +24,7 @@ Find out 5X5  filters which can do the following tasks and apply them on the giv
 
 ### 3. Edge Detection
 
-![edge](https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/edge-detection.png)
+![edge](https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/edge-detection.png)  
 Find out 3X3 filters which can do the following tasks and apply them on the given image
 1. Vertical edge detection
 2. Horizontal edge detection
@@ -43,6 +43,6 @@ For this section your task is to detect a blue ball
 
 ### 6. ROI
 
-![roi](https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/roi.jpg)
+![roi](https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/roi.jpg)  
 ROI (Region of interest) is obtained by Numpy indexing. Use Figure 1 to obtain Figure 2  
 **Hint:-** Use bitwise operations
