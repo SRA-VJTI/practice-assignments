@@ -21,7 +21,7 @@ msg = {
           'switch_state': “ON”,
       }
 ```
-
+--- 
 ### Stage 0
 
 * Use **MQTT** protocol to receive data from different streams (multiple senders and one receiver)

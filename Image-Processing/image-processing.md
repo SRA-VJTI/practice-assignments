@@ -4,7 +4,7 @@ The following tasks are to ensure that your basics of computer vision are clear 
 The following tasks are to be performed **WITHOUT** using any of the libraries such as cv2 unless specified. 
 The packages which can be used are Numpy and PIL. 
 
-**Hint**:- Convert the image into a numpy matrix  
+**Hint:-** Convert the image into a numpy matrix  
 
 ---
 ### Image Rotation
@@ -28,5 +28,14 @@ Find out 3X3 filters which can do the following tasks and apply them on the give
 
 ### Morphological Transformation
 
-Find out about morphological transforms (erison , dilation) and apply them on given images
+Find out about morphological transforms (erosion , dilation) and apply them on given images
 
+### Masking
+
+For this section your task is to detect a blue ball  
+**Hint:-** Explore HSV colorspace and you can use ​`cv2.cvtColor(frame, cv.COLOR_BGR2HSV)`
+
+### ROI
+
+ROI (Region of interest) is obtained by Numpy indexing. Use Figure 1 to obtain Figure 2  
+**Hint:-** Use bitwise operations
