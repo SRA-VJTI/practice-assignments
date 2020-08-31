@@ -29,7 +29,7 @@ Find out 3X3 filters which can do the following tasks and apply them on the give
 2. Horizontal edge detection
 3. Sobel edge detection (right, left, top, bottom)
 4. Canny edge detection  
-<img width="450" height="450" src="https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/edge-detection.png">|<img width="450" height="450" src="https://github.com/SravanChittupalli/practice-assignments/blob/master/Image-Processing/assets/edge-detection2.jpg">
+<img width="450" height="450" src="https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/edge-detection.png">|<img width="450" height="450" src="https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/edge-detection2.jpg">
 
 ### 4. Morphological Transformation  
 
@@ -51,6 +51,6 @@ ROI (Region of interest) is obtained by Numpy indexing. Use Figure 1 to obtain F
 
 Figure 1                      |  Figure 2
 :-------------------------:|:-------------------------:
-<img width="640" height="450" src="https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/roi.jpg">|<img width="640" height="450" src="https://github.com/SravanChittupalli/practice-assignments/blob/master/Image-Processing/assets/ROI2.jpg">
+<img width="640" height="450" src="https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/roi.jpg">|<img width="640" height="450" src="https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/ROI2.jpg">
 
 
