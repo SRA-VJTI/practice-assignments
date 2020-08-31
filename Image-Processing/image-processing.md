@@ -9,7 +9,7 @@ The packages which can be used are Numpy and PIL.
 ---
 ### 1. Image Rotation
 
-Rotate an image by various angles. 
+Rotate the given image by various angles. 
 Hence write a code that will be generic for 90, 180 degrees.  
 <img width="640" height="450" src="https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/rotate.png">  
 
@@ -29,12 +29,14 @@ Find out 3X3 filters which can do the following tasks and apply them on the give
 2. Horizontal edge detection
 3. Sobel edge detection (right, left, top, bottom)
 4. Canny edge detection  
-<img width="640" height="450" src="https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/edge-detection.png">  
+<img width="450" height="450" src="https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/edge-detection.png">|<img width="450" height="450" src="https://github.com/SravanChittupalli/practice-assignments/blob/master/Image-Processing/assets/edge-detection2.jpg">
 
 ### 4. Morphological Transformation  
 
-Find out about morphological transforms (erosion , dilation) and apply them on given images    
+1. Find out about morphological transforms (erosion , dilation) and apply them on given images    
 <img width="640" height="450" src="https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/morphological.png">  
+
+2. Also find out if you can use the dialated image for edge detection
 
 ### 5. Masking
 
@@ -46,5 +48,9 @@ For this section your task is to detect a blue ball
 
 ROI (Region of interest) is obtained by Numpy indexing. Use Figure 1 to obtain Figure 2  
 **Hint:-** Use bitwise operations  
-<img width="640" height="450" src="https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/roi.jpg">  
+
+Figure 1                      |  Figure 2
+:-------------------------:|:-------------------------:
+<img width="640" height="450" src="https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/roi.jpg">|<img width="640" height="450" src="https://github.com/SravanChittupalli/practice-assignments/blob/master/Image-Processing/assets/ROI2.jpg">
+
 
