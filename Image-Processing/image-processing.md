@@ -2,7 +2,7 @@
 
 The following tasks are to ensure that your basics of computer vision are clear along with all the concepts. 
 The following tasks are to be performed **WITHOUT** using any of the libraries such as cv2 unless specified. 
-The packages which can be used are Numpy and PIL. 
+The packages which can be used are Numpy and PIL **(you can use PIL only for loading and saving/showing image)**. 
 
 **Hint:-** Convert the image into a numpy matrix  
 
