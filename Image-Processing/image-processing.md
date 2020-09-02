@@ -13,6 +13,11 @@ Rotate the given image by various angles.
 Hence write a code that will be generic for 90, 180 degrees.  
 <img width="640" height="450" src="https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/rotate.png">  
 
+**Output**
+|<img width="640" height="450" src="https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/rotate-no-bound.png">|<img width="640" height="450" src="https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/rotate-bound.png">|
+|:---:|:---:|
+|No Bound|Bound|
+
 ### 2. Applying Kernels
 
 Find out 5X5  filters which can do the following tasks and apply them on the given image
@@ -21,6 +26,11 @@ Find out 5X5  filters which can do the following tasks and apply them on the giv
 
 |<img width="640" height="450" src="https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/blur.jpeg">|<img width="640" height="450" src="https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/filter.png">|
 |:---:|:---:|
+
+**Output**
+|<img width="640" height="450" src="https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/box-blur-out.png">|<img width="640" height="450" src="https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/gaussian-blur-out.png">|<img width="640" height="450" src="https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/sharpen-out.png">|
+|:---:|:---:|:---:|
+|Box Filter|Gaussian Filter|Sharpen|
 
 ### 3. Edge Detection
   
@@ -34,9 +44,9 @@ Find out 3X3 filters which can do the following tasks and apply them on the give
 ### 4. Morphological Transformation  
 
 1. Find out about morphological transforms (erosion , dilation) and apply them on given images    
+2. Also find out if you can use the dialated image for edge detection  
 <img width="640" height="450" src="https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/morphological.png">  
 
-2. Also find out if you can use the dialated image for edge detection
 
 ### 5. Masking
 
