@@ -46,6 +46,7 @@ Find out 3X3 filters which can do the following tasks and apply them on the give
 1. Find out about morphological transforms (erosion , dilation) and apply them on given images    
 2. Also find out if you can use the dialated image for edge detection  
 <img width="640" height="450" src="https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/morphological.png">  
+<img width="640" height="450" src="https://github.com/SRA-VJTI/practice-assignments/blob/master/Image-Processing/assets/Morphology_out.jpeg">
 
 
 ### 5. Masking
